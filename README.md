@@ -1,5 +1,6 @@
 
 <h1 align="center">
+	<img alt="Meme Generator Logo" src="https://scrimba.com/blobs/sha1:ee3d2e1537021c55cfbfc3e54d0a9dec883a2f77.png">
   <br>
   <br>
 	Meme-Generator
