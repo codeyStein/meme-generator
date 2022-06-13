@@ -11,11 +11,10 @@
 <p align="center">
  •<a href="#About">About</a> •
   <a href="#Installation">Installation</a> •
-  <a href="#Technologies">Technologies</a> •
-  <a href="#You may also like...">Other</a> 
+  <a href="#Technologies">Technologies</a> 
 </p>
 
-![screenshot](https://user-images.githubusercontent.com/97049247/170794071-95f2ecaa-4cbe-4d7b-b4a1-e7ec5dfe57c9.png)
+![screenshot](https://user-images.githubusercontent.com/97049247/173434867-75b51d91-c587-431c-bcc0-4f6522d8eee3.png)
 
 ## About
 
