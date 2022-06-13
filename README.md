@@ -2,17 +2,17 @@
 <h1 align="center">
   <br>
   <br>
-  React Modal
+	Meme-Generator
 </h1>
 
-<h4 align="center">Simple, minimal Modal made with React.</h4>
+<h4 align="center">Simple meme-generator made with React and imgflip API</h4>
 
 
 <p align="center">
  •<a href="#About">About</a> •
-  <a href="#Why">Why</a> •
   <a href="#Installation">Installation</a> •
-  <a href="#Technologies">Technologies</a> 
+  <a href="#Technologies">Technologies</a> •
+  <a href="#You may also like...">Other</a> 
 </p>
 
 ![screenshot](https://user-images.githubusercontent.com/97049247/170794071-95f2ecaa-4cbe-4d7b-b4a1-e7ec5dfe57c9.png)
